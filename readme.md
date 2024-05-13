@@ -1,6 +1,6 @@
 # Gazelle Trainer
 
-This is an open source trainer for the Gazelle Joint Speech Language Model made by [@hingeloss](https://github.com/stillmatic).
+This is an open source trainer for Gazelle: A Joint Speech Language Model which was made by [@hingeloss](https://github.com/stillmatic).
 
 We walk through our own trainer and some data collation steps here.
 
